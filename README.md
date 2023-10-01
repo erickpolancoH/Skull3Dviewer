@@ -16,6 +16,7 @@
         <div class="icon">
           <img src="skullcandyicon.svg">
         </div>
+        
         <div class="skulltitle">SKUll</div>
        
     </div>
